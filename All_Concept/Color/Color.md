@@ -26,38 +26,6 @@
 
 ---
 
-# learnTailwind
-
-> How to use Tailwind
-
----
-
-[normal link](https://www.google.com/)
-
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-
-## Content
-
--   [Utility First](#)
--   <a style="color: red;text-decoration-style: dotted;">Color</a>
--   [Container Spacing](#)
--   [Typography](#)
--   [Sizing](#)
--   [Layout Position](#)
--   [Backgrounds Shadows](#)
--   [Borders](#)
--   [Filters](#)
--   [Interactivity](#)
--   [Breakpoints](#)
--   [Columns](#)
--   [Flex](#)
--   [Grid](#)
--   [Transform Transition](#)
--   [Animation](#)
--   [Customization](#)
-
----
-
 ## Color
 
 ### Text Colors
